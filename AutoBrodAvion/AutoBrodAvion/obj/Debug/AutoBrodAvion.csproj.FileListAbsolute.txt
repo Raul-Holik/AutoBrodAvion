@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\Raul Dominik Holik\AutoBrodAvion\AutoBrodAvion\bin\Debug\AutoBrodAvion.exe.config
+C:\Users\ucenik\Documents\Raul Dominik Holik\AutoBrodAvion\AutoBrodAvion\bin\Debug\AutoBrodAvion.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\AutoBrodAvion\AutoBrodAvion\bin\Debug\AutoBrodAvion.pdb
+C:\Users\ucenik\Documents\Raul Dominik Holik\AutoBrodAvion\AutoBrodAvion\obj\Debug\AutoBrodAvion.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\AutoBrodAvion\AutoBrodAvion\obj\Debug\AutoBrodAvion.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\AutoBrodAvion\AutoBrodAvion\obj\Debug\AutoBrodAvion.Form1.resources
+C:\Users\ucenik\Documents\Raul Dominik Holik\AutoBrodAvion\AutoBrodAvion\obj\Debug\AutoBrodAvion.Properties.Resources.resources
+C:\Users\ucenik\Documents\Raul Dominik Holik\AutoBrodAvion\AutoBrodAvion\obj\Debug\AutoBrodAvion.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\AutoBrodAvion\AutoBrodAvion\obj\Debug\AutoBrodAvion.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\AutoBrodAvion\AutoBrodAvion\obj\Debug\AutoBrodAvion.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\AutoBrodAvion\AutoBrodAvion\obj\Debug\AutoBrodAvion.pdb
